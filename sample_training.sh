@@ -1,4 +1,4 @@
-datapath=/mnt/d/unsupervised_anomaly_detection
+datapath=/workspaces/patchcore-inspection/inspl
 datasets=('damper-stockbridge'  'vari-grip'  'yoke'  'spacer'  'lightning-rod-shackle'  'plate'  'damper-preformed'  'polymer-insulator-lower-shackle'  'yoke-suspension'  
 'polymer-insulator-upper-shackle'  'polymer-insulator'  'glass-insulator'  
 'glass-insulator-big-shackle'  'glass-insulator-tower-shackle'  'polymer-insulator-tower-shackle'  
